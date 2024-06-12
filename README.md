@@ -1,0 +1,1 @@
+# zbx_proxmox_ceph
